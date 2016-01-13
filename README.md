@@ -1,4 +1,4 @@
-# generator-restful-api [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-restful-api [![NPM version][npm-image]][npm-url]
 > 
 
 ## Installation
@@ -14,6 +14,36 @@ Then generate your new project:
 
 ```bash
 yo restful-api
+```
+
+```structure
+```text
+
+|-app.js
+
+|-config.js
+
+|-readme.md
+
+|-.gitignore
+
+|-routers/
+
+|-utils/
+    |-db.js
+        
+    |-middleware.js
+
+|-test/
+
+    |-util/
+    
+        |-db.js
+        
+        |-middleware.js
+    
+    |-routers/
+
 ```
 
 ## Getting To Know Yeoman
