@@ -57,9 +57,3 @@ Yeoman has a heart of gold. He&#39;s a person with feelings and opinions, but he
 
 [npm-image]: https://badge.fury.io/js/generator-restful-api.svg
 [npm-url]: https://npmjs.org/package/generator-restful-api
-[travis-image]: https://travis-ci.org//generator-restful-api.svg?branch=master
-[travis-url]: https://travis-ci.org//generator-restful-api
-[daviddm-image]: https://david-dm.org//generator-restful-api.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org//generator-restful-api
-[coveralls-image]: https://coveralls.io/repos//generator-restful-api/badge.svg
-[coveralls-url]: https://coveralls.io/r//generator-restful-api
