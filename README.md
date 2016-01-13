@@ -16,7 +16,7 @@ Then generate your new project:
 yo restful-api
 ```
 
-```structure
+##structure
 ```text
 
 |-app.js
