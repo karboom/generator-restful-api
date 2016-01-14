@@ -30,6 +30,7 @@ yo restful-api
 |-routers/
 
 |-utils/
+
     |-db.js
         
     |-middleware.js
