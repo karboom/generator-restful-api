@@ -39,10 +39,6 @@ yo restful-api
 
     |-util/
     
-        |-db.js
-        
-        |-middleware.js
-    
     |-routers/
 
 ```
